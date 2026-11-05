@@ -1,0 +1,96 @@
+{
+  "version": "1.0.0",
+  "language": "vi",
+  "lastUpdated": "2026-11-05",
+  "jokes": [
+    {
+      "id": 1,
+      "content": "Hỏi: Tại sao con gà sang đường?\nĐáp: Vì nó muốn qua đường bên kia!",
+      "category": "classic"
+    },
+    {
+      "id": 2,
+      "content": "Một hôm tôi đi mua rau, bà bán hỏi:\n- Mua rau gì?\nTôi đáp:\n- Mua rau má!\nBà ta hỏi lại:\n- Má ai?\nTôi:\n- Má tôi!\n😂",
+      "category": "wordplay"
+    },
+    {
+      "id": 3,
+      "content": "Thầy giáo hỏi:\n- Em biết 1 + 1 bằng mấy?\nHọc sinh:\n- Dạ, bằng 2 ạ!\nThầy:\n- Giỏi lắm! Vậy 2 + 2 bằng mấy?\nHọc sinh:\n- Dạ, thưa thầy là 4!\nThầy:\n- Tuyệt vời! Giờ thầy cho em một câu khó: Em có 3 quả táo, thầy cho thêm 2 quả, em có mấy quả?\nHọc sinh:\n- Dạ... em không thích ăn táo ạ! 😅",
+      "category": "kids"
+    },
+    {
+      "id": 4,
+      "content": "Buổi sáng, anh chồng đang ăn sáng thì vợ hỏi:\n- Anh yêu, sao anh không khen em đẹp?\nAnh chồng:\n- Em đẹp!\nVợ:\n- Vậy tại sao anh không nói?\nAnh:\n- Vì anh đang ăn!",
+      "category": "family"
+    },
+    {
+      "id": 5,
+      "content": "Tôi vừa cài một app giúp tôi đọc suy nghĩ của người khác.\nNó gọi là... Facebook! 📱😂",
+      "category": "technology"
+    },
+    {
+      "id": 6,
+      "content": "Hỏi: Cá sấu đi về hướng nào?\nĐáp: Hướng Nam! Vì cá sấu đi về... Sài Gòn (Cá-sau-gòn) 🐊",
+      "category": "wordplay"
+    },
+    {
+      "id": 7,
+      "content": "Tôi không lười, tôi chỉ đang ở chế độ tiết kiệm năng lượng! ⚡😴",
+      "category": "life"
+    },
+    {
+      "id": 8,
+      "content": "Bác sĩ: Anh phải ngừng uống cà phê!\nBệnh nhân: Tại sao vậy bác sĩ?\nBác sĩ: Vì tôi muốn khám bệnh, chứ không phải xem anh nhảy breakdance! ☕💃",
+      "category": "health"
+    },
+    {
+      "id": 9,
+      "content": "Tôi đã thử tập thể dục buổi sáng...\nNhưng buổi chiều phù hợp với tôi hơn... buổi chiều năm sau! 😂🏃",
+      "category": "motivation"
+    },
+    {
+      "id": 10,
+      "content": "Hỏi: Điều gì đi mà không có chân, khóc mà không có mắt?\nĐáp: Đám mây! (Mây đi và mưa rơi như khóc) ☁️😢",
+      "category": "riddle"
+    },
+    {
+      "id": 11,
+      "content": "Tôi đã mất ví tiền hôm qua.\nMay mà không có tiền trong ví! 💰😅",
+      "category": "life"
+    },
+    {
+      "id": 12,
+      "content": "Con hỏi bố:\n- Bố ơi, sao bố không đi làm?\nBố:\n- Vì bố đang nghỉ phép con à!\nCon:\n- Vậy sao hôm nào bố cũng nghỉ phép vậy ạ? 🤔",
+      "category": "family"
+    },
+    {
+      "id": 13,
+      "content": "Tôi không phải là người hoàn hảo...\nNhưng khi tôi thấy đồ ăn, tôi hoàn hảo rồi! 🍕😋",
+      "category": "food"
+    },
+    {
+      "id": 14,
+      "content": "Hỏi: Tại sao smartphone luôn buồn?\nĐáp: Vì nó luôn bị sạc! (Bị sờ-ạc = stress) 📱😓",
+      "category": "technology"
+    },
+    {
+      "id": 15,
+      "content": "Người ta nói tiền không mua được hạnh phúc...\nNhưng tôi thà khóc trên xe BMW còn hơn trên xe bus! 🚗😭",
+      "category": "money"
+    }
+  ],
+  "totalJokes": 15,
+  "categories": [
+    "classic",
+    "wordplay",
+    "kids",
+    "family",
+    "technology",
+    "life",
+    "health",
+    "motivation",
+    "riddle",
+    "food",
+    "money"
+  ]
+}
